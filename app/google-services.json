@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "870941098068",
+    "project_id": "javainstaclo",
+    "storage_bucket": "javainstaclo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870941098068:android:772e247047f5fdfc2dadc1",
+        "android_client_info": {
+          "package_name": "com.gold.firebaseinsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870941098068-dgnjabpp4qq364apgcqo14e5r6293eqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATPuGdQTzqwqx9MwRUeosx61cCWK1IiM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870941098068-dgnjabpp4qq364apgcqo14e5r6293eqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
